@@ -1,0 +1,11 @@
+src/
+├── controller/
+│   └── AttendanceController.java
+├── model/
+│   ├── Student.java
+│   ├── Course.java
+│   ├── Attendance.java
+│   └── DatabaseConnection.java
+├── view/
+│   └── attendance.jsp
+└── Main.java
