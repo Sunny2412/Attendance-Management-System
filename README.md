@@ -242,7 +242,7 @@ The Attendance Management System is a web application designed for university-le
 4. View and manage attendance records.
 
 **Contributors:**
-- Your Name (Developer)
+- Sunny Kumar
 
 **License:**
 This project is licensed under the MIT License.
